@@ -1,19 +1,20 @@
 from math import floor
+import sys
+
 def cakes(recipe, available):
-    result = 0
+    result = sys.maxsize
     x = 0
     for element in recipe:
-        if element in available:
-            x = recipe[element]/available[element]
-            result = max(result, floor(x))
-            
+        if element not in available:
+            result = 0
+        else:
+            x = available[element]/recipe[element]
+            result = min(result, floor(x))
+        
     return result
 
-# must return 2
-cakes({flour: 500, sugar: 200, eggs: 1}, {flour: 1200, sugar: 1200, eggs: 5, milk: 200})
-# must return 0
-cakes({apples: 3, flour: 300, sugar: 150, milk: 100, oil: 100}, {sugar: 500, flour: 2000, milk: 2000})
 
+        
 
 """Pete likes to bake some cakes. He has some recipes and ingredients. Unfortunately he is not good in maths. Can you help him to find out, how many cakes he could bake considering his recipes?
 
