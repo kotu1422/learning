@@ -12,6 +12,9 @@ public class Solution {
     public static int element = 5;
 
     public static void main(String[] args) {
-        //write your code here
+        int[] copy = Arrays.copyOf(array, array.length);
+        Arrays.sort(copy);
+        int index = Arrays.binarySearch(copy, element);
+        System.out.println(index >=0);//write your code here
     }
 }

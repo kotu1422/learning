@@ -6,7 +6,8 @@ To infinity and beyond!
 
 public class Solution {
     public static void main(String[] args) {
-        //write your code here
+        div(0.0, 100.0);
+        div(0.0, -100.0);//write your code here
     }
 
     public static void div(double a, double b){

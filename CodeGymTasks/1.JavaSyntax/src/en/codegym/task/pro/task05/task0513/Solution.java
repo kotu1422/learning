@@ -12,6 +12,9 @@ public class Solution {
     public static int[] ints = new int[]{1, 2, 3, 4, 5, 6, 7, 8};
 
     public static void main(String[] args) {
-        //write your code here
+        String str = Arrays.toString(strings);
+        String str2 = Arrays.toString(ints);
+        System.out.println(str);
+        System.out.println(str2);
     }
 }

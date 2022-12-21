@@ -9,17 +9,17 @@ Utility class: part 1
 public class Solution {
 
     public static double sin(double a) {
-        //write your code here
-        return 0;
+        double o = Math.sin(Math.toRadians(a));//write your code here
+        return o;
     }
 
     public static double cos(double a) {
-        //write your code here
-        return 0;
+        double p = Math.cos(Math.toRadians(a));//write your code here
+        return p;
     }
 
     public static double tan(double a) {
-        //write your code here
-        return 0;
+        double l = Math.tan(Math.toRadians(a));//write your code here
+        return l;
     }
 }

@@ -11,6 +11,14 @@ public class Solution {
     }
 
     public static void printNumbers() throws InterruptedException {
-        //write your code here
+        for (int i = 0; i < 10; i++) {
+            if(i!=9){
+                System.out.println(i+1);
+                Thread.sleep(1, 300_000);
+            } else {
+                System.out.println(i+1);
+            }
+
+        }//write your code here
     }
 }

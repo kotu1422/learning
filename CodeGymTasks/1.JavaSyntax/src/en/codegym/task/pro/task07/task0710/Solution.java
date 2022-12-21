@@ -14,6 +14,8 @@ public class Solution {
     }
 
     public static void fillArray(Integer[] array, int value){
-        //write your code here
+        for (int i = 0; i < array.length; i++) {
+            array[i] = value;
+        }//write your code here
     }
 }

@@ -10,9 +10,17 @@ public class Solution {
 
     }
 
-    public static void universalMethod() {
+    public static void universalMethod() {}
+    public static void universalMethod(int x) {}
+    public static void universalMethod(int[] x) {}
+    public static void universalMethod(int x, int y) {}
+    public static void universalMethod(int[][] x) {}
+    public static void universalMethod(String s) {}
+    public static void universalMethod(String s, String a) {}
+    public static void universalMethod(String s, int x) {}
+    public static void universalMethod(int[][][] x) {}
+    public static void universalMethod(int[][][][] x) {}
 
-    }
 
     //write your code here
 }

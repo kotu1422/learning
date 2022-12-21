@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c55dcd11-a81c-4da0-8294-c183b0189724" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task05/task0512/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task05/task0512/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task05/task0513/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task05/task0513/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task05/task0514/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task05/task0514/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task05/task0515/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task05/task0515/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task05/task0516/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task05/task0516/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task05/task0517/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task05/task0517/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task05/task0518/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task05/task0518/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task05/task0519/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task05/task0519/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task05/task0521/Conditions.tcs" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task05/task0521/Conditions.tcs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task05/task0521/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task05/task0521/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0601/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0601/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0602/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0602/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0603/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0603/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0604/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0604/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0605/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0605/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0606/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0606/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0607/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0607/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0608/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0608/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0609/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0609/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0610/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0610/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0611/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0611/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0612/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0612/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0613/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0613/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0614/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0614/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0615/Earth.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0615/Earth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0616/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task06/task0616/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0701/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0701/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0702/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0702/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0703/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0703/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0704/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0704/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0705/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0705/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0706/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0706/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0707/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0707/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0708/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0708/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0709/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0709/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0710/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0710/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0711/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0711/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0712/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0712/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0713/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0713/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0713/Woman.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0713/Woman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0714/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0714/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0714/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0714/ElectricCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0715/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0715/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0715/JavaDeveloper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task07/task0715/JavaDeveloper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0801/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0801/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0802/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0802/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0803/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0803/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0804/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0804/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0805/MagicBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0805/MagicBall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0806/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0806/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0807/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0807/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0808/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0808/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0809/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0809/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0810/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0810/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0811/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0811/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0812/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0812/Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0813/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0813/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0814/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0814/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0815/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0815/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0816/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0816/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0817/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/1.JavaSyntax/src/en/codegym/task/pro/task08/task0817/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/CodeGymPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/CodeGymPlugin.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/out.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/out/production/1.JavaSyntax/en/codegym/task/pro/task05/task0504/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/out/production/1.JavaSyntax/en/codegym/task/pro/task05/task0504/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeGymTasks/out/production/1.JavaSyntax/en/codegym/task/pro/task05/task0521/Conditions.tcs" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeGymTasks/out/production/1.JavaSyntax/en/codegym/task/pro/task05/task0521/Conditions.tcs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2IxECAhgdVzEFiuqTvM33OZpb3F" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Patryk/Documents/GitHub/learning/playground"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c55dcd11-a81c-4da0-8294-c183b0189724" name="Changes" comment="" />
+      <created>1671114704053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671114704053</updated>
+    </task>
+    <servers />
+  </component>
+</project>

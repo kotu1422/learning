@@ -5,5 +5,8 @@ Minimum integer
 */
 
 public class Solution {
-    //write your code here
+    byte a = Byte.MIN_VALUE;
+    short b = Short.MIN_VALUE;
+    int c = Integer.MIN_VALUE;
+    long d = Long.MIN_VALUE;//write your code here
 }

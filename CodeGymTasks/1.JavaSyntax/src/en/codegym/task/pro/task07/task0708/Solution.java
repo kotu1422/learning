@@ -15,6 +15,9 @@ public class Solution {
     }
 
     public static void setValues(long value){
-        //write your code here
+        Solution.a = (byte) value;
+        Solution.b = (short) value;//write your code here
+        Solution.c = (int) value;
+        Solution.d = value;
     }
 }

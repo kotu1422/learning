@@ -13,7 +13,12 @@ public class MagicBall {
     private static final String VERY_DOUBTFUL = "Very doubtful";
 
     public static String getPrediction() {
-        //write your code here
-        return null;
+        String[] preds = {CERTAIN, DEFINITELY, MOST_LIKELY, OUTLOOK_GOOD, ASK_AGAIN_LATER, TRY_AGAIN, NO, VERY_DOUBTFUL};
+        Random pred = new Random();
+        if (pred.nextInt(8) >=0 && pred.nextInt(8)<=7){
+            return preds[pred.nextInt(8)];
+        } else {
+            return null;
+        }
     }
 }

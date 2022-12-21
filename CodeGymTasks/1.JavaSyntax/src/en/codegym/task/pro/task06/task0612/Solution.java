@@ -11,11 +11,10 @@ public class Solution {
     }
 
     public static void printSqrt(int[] array) {
-        String elementSqrt = "The square root of ";
-        for (int i = 0; i < array.length; i++) {
-            int element = array[i];
+        String intro = "The square root of ";
+        for (int element : array) {
             double elementSqrt = Math.sqrt(element);
-            System.out.println(elementSqrt + element + " is " + elementSqrt);
+            System.out.println(intro + element + " is " + elementSqrt);
         }
     }
 }

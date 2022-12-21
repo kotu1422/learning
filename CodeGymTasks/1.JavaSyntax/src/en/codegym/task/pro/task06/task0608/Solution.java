@@ -9,5 +9,7 @@ public class Solution {
 
     }
 
-    //write your code here
+    public static long cube(long x){
+        return x*x*x;
+    }//write your code here
 }
