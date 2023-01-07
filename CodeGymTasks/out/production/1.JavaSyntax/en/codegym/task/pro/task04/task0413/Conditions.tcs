@@ -1,0 +1,24 @@
+taskKey="en.codegym.task.pro.task04.task0413"\n\nDrawing a triangle
+
+Let&#39;s use a for loop to display a right triangle comprised of numeral eights with sides (legs) of 10 and 10.
+In other words, the first line should contain one 8, forming the left side. The second line should have two 8s, etc.
+Example screen output:
+8
+88
+888
+8888
+88888
+888888
+8888888
+88888888
+888888888
+8888888888
+
+
+Требования:
+1.	The program should display numbers on the screen.
+2.	The program should display a right triangle comprised of numeral eights with sides 10 and 10.
+3.	The program must use a for loop.
+4.	The screen output should happen in a for loop.
+
+

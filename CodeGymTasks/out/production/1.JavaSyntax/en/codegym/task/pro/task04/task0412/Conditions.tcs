@@ -1,0 +1,14 @@
+taskKey="en.codegym.task.pro.task04.task0412"\n\nSum of even numbers
+
+The main method reads 3 integers from the keyboard: start, end, and multiple.
+Update the program so that the screen displays the sum of multiples of multiple variable in the range from start (inclusive) to end (not inclusive).
+Use a for loop to do this.
+Hint: To move to the next iteration of the loop, use a continue statement.
+
+
+Требования:
+1.	The program should display the sum of multiples of the multiple variable in the range from start (inclusive) to end (not inclusive).
+2.	The program must use a for loop.
+3.	You must use a continue statement in a for loop.
+
+

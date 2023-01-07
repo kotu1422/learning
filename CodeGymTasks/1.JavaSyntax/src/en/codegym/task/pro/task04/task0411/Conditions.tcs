@@ -1,0 +1,12 @@
+taskKey="en.codegym.task.pro.task04.task0411"\n\nEven numbers
+
+Write a program that uses a for loop to display the even numbers in the range from 1 to 15.
+Each value should be displayed on a new line.
+
+
+Требования:
+1.	The program should display text on the screen.
+2.	The program should display even numbers from 1 to 15. Display each value on a new line.
+3.	The program must use a for loop.
+
+
