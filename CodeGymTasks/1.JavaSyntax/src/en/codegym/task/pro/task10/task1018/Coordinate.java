@@ -9,7 +9,7 @@ public class Coordinate {
     }
 
     public void setX(int x) {
-        x = this.x;
+        this.x = x;
     }
 
     public int getY() {
@@ -17,6 +17,6 @@ public class Coordinate {
     }
 
     public void setY(int y) {
-        y = this.y;
+        this.y = y;
     }
 }

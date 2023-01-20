@@ -37,8 +37,12 @@ public class Solution {
 
     public static void removeGlassesReverse(ArrayList<String> glasses) {
         System.out.println("Starting to disassemble the tower...");
+        int layerCount = glasses.size();
+        for (int i = 0; i < layerCount; i++) {
+            glasses.remove(layerCount-i-1);
 
-        //write your code here
+        }
+
 
         if(glasses.size() == 0) {
             System.out.println("The tower is disassembled!");

@@ -5,7 +5,7 @@ Paying bills
 */
 
 public class Solution {
-    public static Integer balance;
+    public static Integer balance = Integer.MAX_VALUE;
 
     public static void main(String[] args) {
         String bill = "1234567890";
@@ -16,6 +16,6 @@ public class Solution {
     }
 
     public static void processPayment(String bill) {
-        //write your code here
+        balance = balance-Integer.parseInt(bill);//write your code here
     }
 }

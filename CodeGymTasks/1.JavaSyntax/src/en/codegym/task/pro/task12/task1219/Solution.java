@@ -9,11 +9,13 @@ Double curly braces
 public class Solution {
 
     public static void main(String[] args) {
-        var strings = new ArrayList<String>();
-        strings.add("So");
-        strings.add("too");
-        strings.add("you can");
-        strings.add("do");
-        strings.add("!");
+        var strings = new ArrayList<String>(){
+            {
+                add("So");
+                add("too");
+                add("you can");
+                add("do");
+                add("!");
+            }};
     }
 }

@@ -16,14 +16,29 @@ public class Solution {
     }
 
     public static int countDigits(String string) {
-        //write your code here
+        int digits = 0;
+        char[] chars = string.toCharArray();
+        for (int i = 0; i < string.length(); i++) {
+            if(Character.isDigit(chars[i])){digits++;}
+        }
+        return digits;
     }
 
     public static int countLetters(String string) {
-        //write your code here
+        int letters = 0;
+        char[] chars = string.toCharArray();
+        for (int i = 0; i < string.length(); i++) {
+            if(Character.isLetter(chars[i])){letters++;}
+        }
+        return letters;
     }
 
     public static int countSpaces(String string) {
-        //write your code here
+        int spaces = 0;
+        char[] chars = string.toCharArray();
+        for (int i = 0; i < string.length(); i++) {
+            if(Character.isSpace(chars[i])){spaces++;}
+        }
+        return spaces;
     }
 }

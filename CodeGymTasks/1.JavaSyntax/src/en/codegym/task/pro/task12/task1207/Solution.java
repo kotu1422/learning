@@ -19,6 +19,6 @@ public class Solution {
     }
 
     public static Boolean isLess(int first, int second) {
-        return first < second ? true : null;
+        return first < second ? true : false;
     }
 }

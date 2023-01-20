@@ -7,6 +7,8 @@ String converter
 public class Solution {
     public static void main(String[] args) {
         String string = "12.84";
-        //write your code here
+        double x = Double.parseDouble(string);
+        long y = Math.round(x);
+        System.out.println(y);//write your code here
     }
 }

@@ -5,15 +5,15 @@ Identical cars
 */
 
 public class Car {
-    private static String modelName;
+    private String modelName;
     private int speed;
 
-    public static String getModelName() {
+    public String getModelName() {
         return modelName;
     }
 
-    public static void setModelName(String modelName) {
-        Car.modelName = modelName;
+    public void setModelName(String modelName) {
+        this.modelName = modelName;
     }
 
     public int getSpeed() {

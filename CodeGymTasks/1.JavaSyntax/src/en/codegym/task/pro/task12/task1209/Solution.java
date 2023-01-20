@@ -25,6 +25,16 @@ public class Solution {
     }
 
     public static void paySalary(String name) {
+        if (name==null){
+            return;
+        } else if (waitingEmployees.contains(name)) {
+            alreadyGotSalaryEmployees.add(name);
+            for (int i = 0; i < waitingEmployees.size(); i++) {
+                if (waitingEmployees.get(i)==name){
+                    waitingEmployees.set(i,null);
+                }
+            };
+        }
         //write your code here
     }
 }

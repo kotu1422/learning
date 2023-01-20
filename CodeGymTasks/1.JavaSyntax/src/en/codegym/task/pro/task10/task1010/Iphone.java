@@ -17,6 +17,25 @@ public class Iphone {
         this.price = price;
     }
 
+    @Override
+    public boolean equals(Object obj) {
+        if (this==obj){
+            return true;
+        }
+
+        if (obj==null){
+            return false;
+        }
+        
+        if (!(obj instanceof Iphone)){
+            return false;
+        }
+        Iphone iphone = (Iphone) obj;
+        return price == iphone.price &&
+                Objects.equals(model, iphone.model) &&
+                Objects.equals(color, iphone.color);
+    }
+
     //write your code here
 
     public static void main(String[] args) {

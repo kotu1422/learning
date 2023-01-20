@@ -16,6 +16,15 @@ public class Memory {
     }
 
     public static void executeDefragmentation(String[] array) {
-        //write your code here
+        int objectIndex = 0;
+        String currObject;
+        for (int i = 0; i < array.length; i++) {
+            if (array[i]!=null){
+                currObject = array[i];
+                array[i]= null;
+                array[objectIndex]=currObject;
+                objectIndex+=1;
+            }
+        }//write your code here
     }
 }

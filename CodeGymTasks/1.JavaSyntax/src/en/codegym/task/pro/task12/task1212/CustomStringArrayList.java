@@ -25,7 +25,12 @@ public class CustomStringArrayList {
     }
 
     private void grow() {
-        //write your code here
+        capacity *= 1.5;
+        String[] temp = new String[capacity];
+        for (int i = 0; i < elements.length; i++) {
+            temp[i] = elements[i];
+        }
+        elements = temp;
     }
 
 }

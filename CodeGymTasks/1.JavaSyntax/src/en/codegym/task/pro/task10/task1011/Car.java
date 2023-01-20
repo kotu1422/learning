@@ -15,6 +15,11 @@ public class Car {
         this.year = year;
     }
 
+    @Override
+    public int hashCode() {
+        return Objects.hash(model,year);
+    }
+
     //write your code here
 
     public static void main(String[] args) {

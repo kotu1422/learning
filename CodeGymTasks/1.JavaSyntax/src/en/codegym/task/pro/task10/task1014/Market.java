@@ -13,7 +13,7 @@ public class Market {
     }
 
     public static void makePurchases(boolean hasEggs) {
-        if (Market.hasEggs) {
+        if (hasEggs) {
             System.out.println("10 loaves of bread purchased");
         } else {
             System.out.println("1 loaf of bread purchased");

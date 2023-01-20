@@ -22,7 +22,8 @@ public class UniversityGroup {
     }
 
     public void exclude(String excludedStudent) {
-        for (String student : students) {
+        ArrayList<String> copy = new ArrayList<>(students);
+        for (String student : copy) {
             if (student.equals(excludedStudent)) {
                 students.remove(student);
             }

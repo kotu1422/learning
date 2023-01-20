@@ -11,7 +11,9 @@ public class Hedgehog {
     }
 
     public static void main(String[] args) {
-        //write your code here
+        Apple apple = new Apple();
+        Hedgehog hedgehog = new Hedgehog();
+        hedgehog.eat(apple);//write your code here
     }
 
     public static class Apple {

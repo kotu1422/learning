@@ -7,10 +7,11 @@ Weather forecast
 public class Solution {
 
     public static void showWeather(City city) {
-        //write your code here
+        System.out.println("Today's temperature in "+city.getName()+" is "+ city.getTemperature());
     }
 
     public static void main(String[] args) {
-        //write your code here
+        City city = new City("Dubai",71);
+        showWeather(city);//write your code here
     }
 }
