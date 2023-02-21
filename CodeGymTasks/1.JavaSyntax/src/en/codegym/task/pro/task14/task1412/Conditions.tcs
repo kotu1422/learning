@@ -1,9 +1,0 @@
-taskKey="en.codegym.task.pro.task14.task1412"\n\nGrouping exceptions
-
-Combine the catch blocks that have the same code.
-
-
-Требования:
-1.	Use the minimum number of catch blocks.
-
-
