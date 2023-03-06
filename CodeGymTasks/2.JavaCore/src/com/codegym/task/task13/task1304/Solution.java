@@ -17,5 +17,15 @@ public class Solution {
         void refresh();
     }
 
-    //write your code here
+    public static class Screen implements Updatable, Selectable{
+        @Override
+        public void refresh() {
+
+        }
+
+        @Override
+        public void onSelect() {
+
+        }
+    }//write your code here
 }

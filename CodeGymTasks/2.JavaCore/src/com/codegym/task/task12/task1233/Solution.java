@@ -5,6 +5,11 @@ The isomorphs are coming
 
 */
 
+import java.util.Arrays;
+import java.util.OptionalInt;
+import java.util.stream.IntStream;
+import java.util.stream.Stream;
+
 public class Solution {
     public static void main(String[] args) throws Exception {
         int[] data = new int[]{1, 2, 3, 5, -2, -8, 0, 77, 5, 5};
@@ -19,10 +24,17 @@ public class Solution {
         if (array == null || array.length == 0) {
             return new Pair<Integer, Integer>(null, null);
         }
+        int x=Integer.MAX_VALUE;
+        int y = 0;
+        for (int i = 0; i < array.length; i++) {
+            if (array[i]<x){
+                x=array[i];
+                y=i;
+            }
+        }
 
-        //write your code here
 
-        return new Pair<Integer, Integer>(0, 0);
+        return new Pair<Integer, Integer>(x, y);
     }
 
 

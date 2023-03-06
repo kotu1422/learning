@@ -18,5 +18,15 @@ public class Solution {
             return "I translate from " + getLanguage();
         }
     }
+    static class RussianTranslator extends Translator{
+        @Override
+        public String translate() {
+            return super.translate();
+        }
 
+        @Override
+        public String getLanguage() {
+            return "Russian";
+        }
+    }
 }

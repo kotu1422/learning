@@ -15,9 +15,17 @@ public class Solution {
     }
 
     public static String getObjectType(Object o) {
-        //write your code here
-
-        return "Animal";
+        if (o instanceof Cat){
+            return "Cat";//write your code here
+        } else if (o instanceof Tiger){
+            return "Tiger";//write your code here
+        } else if (o instanceof Lion){
+            return "Lion";//write your code here
+        } else if (o instanceof Bull){
+            return "Bull";//write your code here
+        } else {
+            return "Animal";
+        }
     }
 
     public static class Cat {
