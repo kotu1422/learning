@@ -24,4 +24,43 @@ public class Solution {
     public interface CanEat {
         void eat();
     }
+    class Cat implements CanMove, CanEat, Edible{
+        @Override
+        public void move() {
+
+        }
+
+        @Override
+        public void eat() {
+
+        }
+
+        @Override
+        public void beEaten() {
+
+        }
+    }
+    class  Mouse implements CanMove, Edible{
+        @Override
+        public void beEaten() {
+
+        }
+
+        @Override
+        public void move() {
+
+        }
+
+    }
+    class   Dog implements CanMove, CanEat{
+        @Override
+        public void move() {
+
+        }
+
+        @Override
+        public void eat() {
+
+        }
+    }
 }
