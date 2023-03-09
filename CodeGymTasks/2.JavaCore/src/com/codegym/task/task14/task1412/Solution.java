@@ -16,7 +16,12 @@ public class Solution {
     }
 
     public static void printMainInfo(Object object) {
-        //write your code here
+        if (object instanceof Drawable){
+            ((Drawable) object).draw();//write your code here
+        }
+        if (object instanceof Movable){
+            ((Movable) object).move();
+        }
     }
 
     static interface Movable {

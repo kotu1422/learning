@@ -11,6 +11,8 @@ public class Solution {
         println(new SuspensionBridge());
     }
 
-    // Add println method here
+    public static void println(Bridge bridge){
+        System.out.println(bridge.getCarsCount());
+    }// Add println method here
 }
 

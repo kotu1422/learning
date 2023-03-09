@@ -6926,3 +6926,301 @@ com.homework.plugin.analytics.PluginWarningException: warning
 2023-03-08 10:10:20 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2023-03-08 10:10:22 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2023-03-08 10:10:22 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 12:05:29 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 12:05:29 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-03-08 12:05:30 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-03-08 12:05:30 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/Patryk/Documents/GitHub/learning/CodeGymTasks/2.JavaCore/src/com/codegym/task/task14
+2023-03-08 12:05:30 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/Patryk/Documents/GitHub/learning/CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1401
+2023-03-08 12:06:27 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 12:06:28 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 12:06:29 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 12:06:30 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 12:06:35 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 12:06:35 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-03-08 12:06:36 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-03-08 12:06:36 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/Patryk/Documents/GitHub/learning/CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1402
+2023-03-08 12:07:17 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 12:07:17 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 12:07:18 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 12:07:18 INFO  ApacheHttpClient.completed(32) - responseCode = 429
+2023-03-08 12:07:18 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 12:07:19 WARN  TaskCompleted.run(78) - The previous task has not been verified. Please wait and try again.
+com.homework.plugin.analytics.PluginWarningException: warning
+	at com.homework.plugin.callback.TaskCompleted.run(TaskCompleted.java:78)
+	at com.intellij.openapi.application.TransactionGuardImpl.runWithWritingAllowed(TransactionGuardImpl.java:209)
+	at com.intellij.openapi.application.TransactionGuardImpl.access$100(TransactionGuardImpl.java:21)
+	at com.intellij.openapi.application.TransactionGuardImpl$1.run(TransactionGuardImpl.java:191)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:813)
+	at com.intellij.openapi.application.impl.ApplicationImpl$3.run(ApplicationImpl.java:429)
+	at com.intellij.openapi.application.impl.FlushQueue.doRun(FlushQueue.java:74)
+	at com.intellij.openapi.application.impl.FlushQueue.runNextEvent(FlushQueue.java:114)
+	at com.intellij.openapi.application.impl.FlushQueue.flushNow(FlushQueue.java:36)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:779)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:730)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:724)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:749)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:909)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:756)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$5(IdeEventQueue.java:437)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:774)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$6(IdeEventQueue.java:436)
+	at com.intellij.openapi.application.TransactionGuardImpl.performActivity(TransactionGuardImpl.java:105)
+	at com.intellij.ide.IdeEventQueue.performActivity(IdeEventQueue.java:615)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$7(IdeEventQueue.java:434)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:813)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:480)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:207)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:128)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:117)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:105)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:92)
+2023-03-08 12:07:19 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 12:07:21 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 13:14:02 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 13:14:02 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-03-08 13:14:05 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-03-08 13:14:05 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/Patryk/Documents/GitHub/learning/CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1403
+2023-03-08 13:16:59 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 13:17:00 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 13:17:01 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 13:17:21 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 13:18:00 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 13:18:00 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 13:18:02 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 13:18:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 13:18:10 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 13:18:11 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-03-08 13:18:12 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-03-08 13:18:12 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/Patryk/Documents/GitHub/learning/CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1404
+2023-03-08 13:23:17 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 13:23:18 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 13:23:20 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 13:24:34 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 13:24:35 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 13:24:37 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 13:25:14 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 13:26:08 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 13:26:09 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 13:26:11 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 13:26:20 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 13:27:14 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 13:27:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 13:27:17 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 13:27:17 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 13:27:23 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 13:27:23 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-03-08 13:27:24 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-03-08 13:27:24 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/Patryk/Documents/GitHub/learning/CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1405
+2023-03-08 13:31:07 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 13:31:08 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 13:31:11 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 13:31:11 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 13:31:16 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 13:31:17 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-03-08 13:31:18 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-03-08 13:31:18 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/Patryk/Documents/GitHub/learning/CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1406
+2023-03-08 13:33:12 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 13:33:12 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 13:33:13 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 13:34:06 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 13:34:06 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 13:34:08 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 13:34:08 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 13:34:15 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 13:34:15 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-03-08 13:34:17 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-03-08 13:34:17 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/Patryk/Documents/GitHub/learning/CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1407
+2023-03-08 13:37:38 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 13:37:38 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 13:37:41 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 13:37:41 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 14:04:49 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 14:04:50 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-03-08 14:04:51 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-03-08 14:04:51 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/Patryk/Documents/GitHub/learning/CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1408
+2023-03-08 14:32:14 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 14:32:15 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 14:32:19 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 14:32:19 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 14:52:51 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 14:52:52 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-03-08 14:52:54 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-03-08 14:52:54 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/Patryk/Documents/GitHub/learning/CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1409
+2023-03-08 14:57:48 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 14:57:49 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 14:57:50 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 14:57:50 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 14:58:20 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 14:58:20 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-03-08 14:58:27 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-03-08 14:58:27 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/Patryk/Documents/GitHub/learning/CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1410
+2023-03-08 15:05:05 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 15:05:06 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 15:05:06 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 15:05:17 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 15:05:18 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 15:05:19 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 15:05:20 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 15:05:33 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 15:05:33 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-03-08 15:05:35 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-03-08 15:05:35 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/Patryk/Documents/GitHub/learning/CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1411
+2023-03-08 15:10:42 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 15:24:56 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 15:24:56 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 15:25:00 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 15:25:28 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 15:27:05 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 15:27:06 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 15:27:09 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 15:27:10 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 17:15:45 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 17:15:45 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-03-08 17:15:47 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-03-08 17:15:47 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/Patryk/Documents/GitHub/learning/CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1412
+2023-03-08 17:18:56 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 17:18:56 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 17:18:59 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 17:18:59 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 17:19:06 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 17:19:07 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-03-08 17:19:08 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-03-08 17:19:08 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/Patryk/Documents/GitHub/learning/CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1413
+2023-03-08 17:28:56 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 17:28:57 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 17:28:58 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 17:28:59 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 17:29:13 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 17:29:13 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-03-08 17:29:14 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-03-08 17:29:14 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/Patryk/Documents/GitHub/learning/CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1414
+2023-03-08 18:13:07 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 18:13:08 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 18:13:10 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 18:13:23 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 18:13:23 WARN  PluginUtil.getCurrentTask(77) - Error while retrieving the task key.
+java.lang.StringIndexOutOfBoundsException: begin -1, end 45, length 45
+	at java.base/java.lang.String.checkBoundsBeginEnd(String.java:4604)
+	at java.base/java.lang.String.substring(String.java:2707)
+	at java.base/java.lang.String.substring(String.java:2680)
+	at com.homework.plugin.PluginUtil.getCurrentVirtualFile(PluginUtil.java:159)
+	at com.homework.plugin.PluginUtil.getCurrentTask(PluginUtil.java:68)
+	at com.homework.plugin.button.CorrectSolutionButton.actionPerformed(CorrectSolutionButton.java:59)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.actionPerformed(ActionButton.java:195)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.lambda$performAction$0(ActionButton.java:174)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performDumbAwareWithCallbacks(ActionUtil.java:346)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.performAction(ActionButton.java:174)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.processMouseEvent(ActionButton.java:462)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6413)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2266)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5022)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2324)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4854)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4948)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4575)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4516)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2310)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2802)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4854)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:781)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:730)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:724)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:97)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:754)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:752)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:751)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:909)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:831)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:753)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$5(IdeEventQueue.java:437)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:774)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$6(IdeEventQueue.java:436)
+	at com.intellij.openapi.application.TransactionGuardImpl.performActivity(TransactionGuardImpl.java:113)
+	at com.intellij.ide.IdeEventQueue.performActivity(IdeEventQueue.java:615)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$7(IdeEventQueue.java:434)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:813)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:480)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:207)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:128)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:117)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:105)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:92)
+2023-03-08 18:15:14 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 18:15:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 18:15:17 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 18:15:17 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 18:40:00 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 18:40:00 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-03-08 18:40:06 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-03-08 18:40:06 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/Patryk/Documents/GitHub/learning/CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1415
+2023-03-08 18:53:48 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 18:53:49 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 18:53:52 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 18:53:52 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 18:54:30 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 18:54:30 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-03-08 18:54:34 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-03-08 18:54:34 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/Patryk/Documents/GitHub/learning/CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1416
+2023-03-08 18:58:51 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 18:58:52 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 18:58:52 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 18:59:48 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 18:59:48 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 18:59:51 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 18:59:51 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 19:01:34 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 19:01:35 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-03-08 19:01:43 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-03-08 19:01:43 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/Patryk/Documents/GitHub/learning/CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1417
+2023-03-08 19:37:04 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 19:38:22 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 19:38:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 19:38:24 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 21:08:43 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 21:11:11 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-08 21:11:12 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-08 21:11:13 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-08 21:11:14 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 08:15:07 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-09 08:15:07 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-03-09 08:15:10 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-03-09 08:15:10 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/Patryk/Documents/GitHub/learning/CodeGymTasks/2.JavaCore/src/com/codegym/task/task14/task1418
+2023-03-09 13:53:59 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2023-03-09 13:54:00 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:01 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:01 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:01 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:01 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:02 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:02 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:02 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:02 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:04 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:04 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:04 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:04 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:05 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:05 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:05 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:06 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:06 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:06 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:06 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:07 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:07 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:07 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:08 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-09 13:54:15 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.

@@ -16,20 +16,26 @@ public class Solution {
     }
 
     public static void foodMethods(Food food) {
-        //write your code here
+        food.onEat();
+        food.onSelect();//write your code here
     }
 
     public static void selectableMethods(Selectable selectable) {
-        //write your code here
+        selectable.onSelect();//write your code here
     }
 
     interface Selectable {
         void onSelect();
     }
 
-    static class Food {
+    static class Food implements Selectable{
         public void onEat() {
             System.out.println("The food was eaten");
+        }
+
+        @Override
+        public void onSelect() {
+            System.out.println("The food was selected");
         }
     }
 }
